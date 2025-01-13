@@ -1,7 +1,7 @@
 # Rapidly-Exploring-Random-Trees
 
 ## Problem
-Navigate an environment from a start node to a goal node using Rapidly Exploring Random Trees
+Navigate an environment from a start node to a goal node using Rapidly Exploring Random Trees. In this project, I worked to build the environments and generate the solution that applies the algorithm to reach the goal node.
 
 ## My Application
 This is my solution to the RRT exploration problem. It works by creating the first node at the start point, and from there it generates random nodes in the open space around it. From there it keeps expanding and generating new nodes until we reach the goal node. Once completed, it shows the path taken in a dark blue line from the start to finish. 
