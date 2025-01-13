@@ -8,6 +8,8 @@ This is my solution to the RRT exploration problem. It works by creating the fir
 
 ## Images
 The images below show varios tests done using my program. The first image shows the exploration without any obstacles, and the ones following show other iterations with different obstacles to create a challenge for the algorithm.
+
+
 <img width="798" alt="EmptyTestCase" src="https://github.com/user-attachments/assets/faebc6c6-4dd3-47fd-aa3d-e18635295076" />
 <img width="796" alt="AITest1" src="https://github.com/user-attachments/assets/d79bb1d9-9cbf-4694-a83b-2658caf1bc5c" />
 <img width="796" alt="AITest4" src="https://github.com/user-attachments/assets/90cd004a-4692-474f-a88d-14fa033fa586" />
